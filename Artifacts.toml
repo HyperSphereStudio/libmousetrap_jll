@@ -53,3 +53,12 @@ os = "windows"
     [[libmousetrap.download]]
     sha256 = "deb02e2a1a9dbf589ca61e7d2055c03d44817836368c653f3caaca891c3f1e01"
     url = "https://github.com/HyperSphereStudio/libmousetrap_jll/releases/download/libmousetrap-v0.4.1+0/libmousetrap.v0.4.1.x86_64-w64-mingw32-julia_version+1.10.0.tar.gz"
+
+[[mousetrap_windows]]
+arch = "x86_64"
+git-tree-sha1 = "6eae5f0f3198db733da318dee8f3ef3985967175"
+os = "windows"
+
+    [[mousetrap_windows.download]]
+    sha256 = "a9e588319202cd83501abbbaf0b5a6f46a952c58453db5beb6f3a70feff0ed7e"
+    url = "https://github.com/HyperSphereStudio/libmousetrap_jll/releases/download/mousetrap_windows-v0.4.1+0/mousetrap_windows.v0.4.1.x86_64-w64-mingw32.tar.gz"
