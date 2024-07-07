@@ -6,3 +6,21 @@ os = "windows"
     [[libmousetrap.download]]
     sha256 = "b8cac0892b8e5f5e06e07ccb54e7721bd5152ab7c5e0c3748f14fb60e7e04a97"
     url = "https://github.com/HyperSphereStudio/libmousetrap_jll/releases/download/libmousetrap-v0.4.1+0/libmousetrap.v0.4.1.x86_64-w64-mingw32.tar.gz"
+[[libmousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ad664af78057e06b500fe76279d6c287d1475136"
+os = "windows"
+
+    [[libmousetrap.download]]
+    sha256 = "cd5e11ad5f4d625a80a960ec813fbb98c0a345165eff374118127c7d1654c5e0"
+    url = "https://github.com/HyperSphereStudio/libmousetrap_jll/releases/download/libmousetrap-v0.4.1+0/libmousetrap.v0.4.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libmousetrap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3677af2e23e0d886f285f20d53a67dfd8d205e21"
+os = "windows"
+
+    [[libmousetrap.download]]
+    sha256 = "f8f84d99332521ec98f241ed84dd61c5e0117b9bd6a9c2e8f733eb7fce2c0bb0"
+    url = "https://github.com/HyperSphereStudio/libmousetrap_jll/releases/download/libmousetrap-v0.4.1+0/libmousetrap.v0.4.1.x86_64-w64-mingw32-cxx11.tar.gz"
