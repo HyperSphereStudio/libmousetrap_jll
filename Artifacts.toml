@@ -1,8 +1,8 @@
 [[libmousetrap]]
 arch = "x86_64"
-git-tree-sha1 = "890efb513c6013f0174df339a004d02cf7c919e0"
+git-tree-sha1 = "a58f94b73c77fd9b3c0326e41324ac13335364cd"
 os = "windows"
 
     [[libmousetrap.download]]
-    sha256 = "3fc48f5d8fadf2cf8353cd3afbb469edb85c96b36bae52ee9bf6ab57f572f088"
-    url = "https://github.com/HyperSphereStudio/mousetrap_jll/releases/download/libmousetrap-v0.4.0+0/libmousetrap.v0.4.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b8cac0892b8e5f5e06e07ccb54e7721bd5152ab7c5e0c3748f14fb60e7e04a97"
+    url = "https://github.com/HyperSphereStudio/libmousetrap_jll/releases/download/libmousetrap-v0.4.1+0/libmousetrap.v0.4.1.x86_64-w64-mingw32.tar.gz"
