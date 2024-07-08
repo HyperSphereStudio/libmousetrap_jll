@@ -79,4 +79,4 @@ os = "windows"
 
     [[mousetrap_windows.download]]
     sha256 = "a9e588319202cd83501abbbaf0b5a6f46a952c58453db5beb6f3a70feff0ed7e"
-    url = "https://github.com/HyperSphereStudio/libmousetrap_jll/releases/download/mousetrap_windows-v0.4.1+0/mousetrap_windows.v0.4.1.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/HyperSphereStudio/libmousetrap_jll/releases/download/mousetrap_windows-v0.4.1.0/mousetrap_windows.v0.4.1.x86_64-w64-mingw32.tar.gz"
