@@ -1,6 +1,6 @@
 name = "libmousetrap_jll"
 uuid = "287f9a42-973b-50d0-ae32-9952e735a47d"
-version = "0.4.1+0"
+version = "0.4.2+0"
 
 [deps]
 OpenGLMathematics_jll = "cc7be9be-d298-5888-8f50-b85d5f9d6d73"
@@ -15,6 +15,6 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.10"
+julia = "1.7"
 Libdl = "1"
 Artifacts = "1"
