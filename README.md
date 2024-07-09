@@ -17,8 +17,7 @@ The tarballs for `libmousetrap_jll.jl` have been built from these sources:
 
 `libmousetrap_jll.jl` is available for the following platforms:
 
-* `Windows x86_64 {cxxstring_abi=cxx03, julia_version=1.10}` (`x86_64-w64-mingw32-cxx03-julia_version+1.10`)
-* `Windows x86_64 {cxxstring_abi=cxx11, julia_version=1.10}` (`x86_64-w64-mingw32-cxx11-julia_version+1.10`)
+* `Windows x86_64` (`x86_64-w64-mingw32`)
 
 ## Dependencies
 
