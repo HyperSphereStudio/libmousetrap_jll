@@ -1,6 +1,6 @@
 name = "libmousetrap_jll"
 uuid = "287f9a42-973b-50d0-ae32-9952e735a47d"
-version = "0.4.2+0"
+version = "0.4.3+0"
 
 [deps]
 OpenGLMathematics_jll = "cc7be9be-d298-5888-8f50-b85d5f9d6d73"
